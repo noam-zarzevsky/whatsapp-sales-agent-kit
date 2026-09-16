@@ -1,0 +1,9 @@
+.env
+google-calendar-key.json
+data/
+logs/
+tests/
+conversations/
+STOP
+__pycache__/
+*.pyc

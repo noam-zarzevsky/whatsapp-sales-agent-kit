@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+engine/data/
+engine/logs/
+engine/STOP
+engine/google-calendar-key.json

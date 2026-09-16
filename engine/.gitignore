@@ -1,0 +1,8 @@
+.env
+# כרטיסי לידים - מספרי טלפון ושיחות. לא בגיט
+data/
+logs/
+STOP
+google-calendar-key.json
+__pycache__/
+*.pyc
